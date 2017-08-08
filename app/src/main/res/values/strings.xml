@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SideEye</string>
+    <string name="come">使用SideEye 为您开启明亮世界</string>
+    <string name="storage_description_why_we_need_the_permission">为了更好的为你提供服务</string>
+</resources>
